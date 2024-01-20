@@ -12,6 +12,7 @@ function PrintDeveloper() {
   for(let i=0;i<arr.length;i++){
     if(arr[i].profession=='developer'){
       console.log(arr[i]);
+      
     }
   }
   
